@@ -204,6 +204,3 @@ streamlit run ai/text_to_sql.py   # chat with the warehouse
 
 ---
 
-## License
-
-Add your license of choice here (e.g. MIT).
